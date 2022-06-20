@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T06:59:20.767Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="l7cKVqnMCKpZpiDpa2K6" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T07:01:56.389Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="16bLCiKYrOSDpsveRU0S" version="20.0.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="5963" dy="4079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
           <mxGeometry x="390" y="853.5" width="170" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1136" value="dealErrorCodeResponse()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="620" y="1676" width="190" height="36" as="geometry" />
+          <mxGeometry x="620" y="1705" width="190" height="36" as="geometry" />
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1141" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;isSupportUdpConfig&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;dashed=1;dashPattern=1 1;fontSize=12;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="664" y="1390" width="156" height="70" as="geometry" />
@@ -522,9 +522,9 @@
         <mxCell id="G-COS3JicrVC8gvn0CJn-217" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="G-COS3JicrVC8gvn0CJn-173" target="G-COS3JicrVC8gvn0CJn-421">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-218" value="父类 NetStateMachine" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="2380" width="190" height="20" as="geometry">
-            <mxRectangle x="2380" width="621" height="500" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-218" value="父类 NetStateMachine" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2380" width="621" height="500" as="geometry">
+            <mxRectangle x="2380" width="190" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-235" value="start()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="G-COS3JicrVC8gvn0CJn-218">
@@ -576,9 +576,9 @@
         <mxCell id="G-COS3JicrVC8gvn0CJn-298" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="G-COS3JicrVC8gvn0CJn-218" source="G-COS3JicrVC8gvn0CJn-288" target="G-COS3JicrVC8gvn0CJn-297">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-266" value="WiFINetworkMonitor" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3030" width="180" height="20" as="geometry">
-            <mxRectangle x="3030" width="630" height="1450" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-266" value="WiFINetworkMonitor" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3030" width="630" height="1450" as="geometry">
+            <mxRectangle x="3030" width="180" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-411" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#000000;" edge="1" parent="G-COS3JicrVC8gvn0CJn-266" source="G-COS3JicrVC8gvn0CJn-408" target="G-COS3JicrVC8gvn0CJn-410">
@@ -712,9 +712,9 @@
         <mxCell id="G-COS3JicrVC8gvn0CJn-413" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#000000;" edge="1" parent="1" source="G-COS3JicrVC8gvn0CJn-297" target="G-COS3JicrVC8gvn0CJn-412">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-540" value="WiFiConnector" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3680" width="140" height="20" as="geometry">
-            <mxRectangle x="3680" width="610" height="1450" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-540" value="WiFiConnector" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3680" width="610" height="1450" as="geometry">
+            <mxRectangle x="3680" width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-549" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeColor=#000000;" edge="1" parent="G-COS3JicrVC8gvn0CJn-540" source="G-COS3JicrVC8gvn0CJn-550" target="G-COS3JicrVC8gvn0CJn-552">
@@ -847,9 +847,9 @@
         <mxCell id="G-COS3JicrVC8gvn0CJn-609" value="&lt;font color=&quot;#ff3333&quot;&gt;异步线程，参数返回&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1050" y="650" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-955" value="FindLanDeviceTask" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="4320" width="170" height="20" as="geometry">
-            <mxRectangle x="4320" width="670" height="760" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-955" value="FindLanDeviceTask" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="4320" width="670" height="760" as="geometry">
+            <mxRectangle x="4320" width="170" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-956" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeColor=#000000;" edge="1" parent="G-COS3JicrVC8gvn0CJn-955" source="G-COS3JicrVC8gvn0CJn-957" target="G-COS3JicrVC8gvn0CJn-959">
@@ -923,9 +923,9 @@
             <mxPoint x="4464.5" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-977" value="DeviceBroadcastManager" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="5050" width="220" height="20" as="geometry">
-            <mxRectangle x="5050" width="540" height="560" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-977" value="DeviceBroadcastManager" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="5050" width="540" height="560" as="geometry">
+            <mxRectangle x="5050" width="220" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1032" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=17;fillColor=none;dashed=1;" vertex="1" parent="G-COS3JicrVC8gvn0CJn-977">
@@ -980,9 +980,9 @@
         <mxCell id="G-COS3JicrVC8gvn0CJn-1039" value="初始化，设置Callback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2029" y="1562" width="200" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-1087" value="QueryLastConfigErrorByUdpTask" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="5660" width="220" height="20" as="geometry">
-            <mxRectangle x="5660" width="350" height="810" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-1087" value="QueryLastConfigErrorByUdpTask" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="5660" width="350" height="810" as="geometry">
+            <mxRectangle x="5660" width="220" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1096" value="&lt;font face=&quot;Consolas, monospace&quot; color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 13.0667px;&quot;&gt;run()&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="G-COS3JicrVC8gvn0CJn-1087">
@@ -1018,9 +1018,9 @@
         <mxCell id="G-COS3JicrVC8gvn0CJn-1133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="G-COS3JicrVC8gvn0CJn-1168" source="G-COS3JicrVC8gvn0CJn-1099" target="G-COS3JicrVC8gvn0CJn-1131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-1101" value="UDPDatagramManager" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="6384" width="220" height="20" as="geometry">
-            <mxRectangle x="6384" width="390" height="690" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-1101" value="UDPDatagramManager" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="6384" width="390" height="690" as="geometry">
+            <mxRectangle x="6384" width="220" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1102" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=17;fillColor=none;dashed=1;" vertex="1" parent="G-COS3JicrVC8gvn0CJn-1101">
@@ -1100,14 +1100,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1137" value="&lt;span style=&quot;color: rgb(0, 98, 122); background-color: rgb(255, 255, 255); font-family: Consolas, monospace; font-size: 9.8pt;&quot;&gt;callback.onComplete&lt;/span&gt;()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1845" y="1676" width="170" height="36" as="geometry" />
+          <mxGeometry x="1845" y="1705" width="170" height="36" as="geometry" />
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1140" value="&lt;font color=&quot;#ff3333&quot;&gt;处理errorcode返回的值&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1663" width="200" height="36" as="geometry" />
+          <mxGeometry x="1360" y="1660" width="200" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-1147" value="SendWiFiInfoByUdpTask" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="5660" y="1676" width="220" height="20" as="geometry">
-            <mxRectangle x="5660" y="1676" width="350" height="420" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-1147" value="SendWiFiInfoByUdpTask" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="5660" y="1676" width="350" height="420" as="geometry">
+            <mxRectangle x="5660" y="1676" width="220" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-1148" value="&lt;font face=&quot;Consolas, monospace&quot; color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 13.0667px;&quot;&gt;run()&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="G-COS3JicrVC8gvn0CJn-1147">
@@ -1317,9 +1317,9 @@
         <mxCell id="G-COS3JicrVC8gvn0CJn-1240" value="onError()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1125" y="2096" width="190" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="G-COS3JicrVC8gvn0CJn-416" value="NetworkMonitor" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1700" width="150" height="20" as="geometry">
-            <mxRectangle x="1700" width="650" height="1430" as="alternateBounds" />
+        <mxCell id="G-COS3JicrVC8gvn0CJn-416" value="NetworkMonitor" style="swimlane;html=1;startSize=20;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1700" width="650" height="1430" as="geometry">
+            <mxRectangle x="1700" width="150" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-COS3JicrVC8gvn0CJn-476" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=17;fillColor=none;dashed=1;" vertex="1" parent="G-COS3JicrVC8gvn0CJn-416">
@@ -1549,7 +1549,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1760" y="1380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1760" y="1320" />
+              <mxPoint x="1760" y="1330" />
             </Array>
           </mxGeometry>
         </mxCell>
